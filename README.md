@@ -12,7 +12,7 @@ This Python script provides automation capabilities for launching Epic Games via
 python epiclogin.py --user_file or -u <user_file.json> --launch or -l <game_path>
 ```
 
-You got to provide your authcode from here: https://www.epicgames.com/id/login?redirectUrl=https%3A//www.epicgames.com/id/api/redirect%3FclientId%3D34a02cf8f4414e29b15921876da36f9a%26responseType%3Dcode
+You got to provide your authcode from here: [epicgames.com](https://www.epicgames.com/id/login?redirectUrl=https%3A//www.epicgames.com/id/api/redirect%3FclientId%3D34a02cf8f4414e29b15921876da36f9a%26responseType%3Dcode)
 
 
 ## Tested on:
