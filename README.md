@@ -9,4 +9,4 @@ This Python script provides automation capabilities for launching Epic Games via
 ## Usage
 
 ```bash
-python epic_launcher.py --user_file <user_file.json> --launch <game_path>
+python epiclogin.py --user_file <user_file.json> --launch <game_path>
