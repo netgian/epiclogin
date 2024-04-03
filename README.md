@@ -19,4 +19,4 @@ You got to provide your authcode from here: https://www.epicgames.com/id/login?r
 - Windows 10
 
 
-This project is distributed under [GNU General Public License v3.0](https://github.com/netgian/Keylogger/blob/main/LICENSE) license.
+This project is distributed under [GNU General Public License v3.0](https://github.com/netgian/epiclogin/blob/main/LICENSE) license.
